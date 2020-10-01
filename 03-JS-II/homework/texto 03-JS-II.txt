@@ -1,0 +1,7 @@
+for = es un estatement que nos permite repetir un bloque de código muchas veces.
+
+&& = es un operador de comparación que compara dos expresiones y devuelve TRUE solo si ambas son verdaderas.
+
+|| = es un operador que compara dos expresiones, devuelve TRUE en todos los casos excepto cuando ambas son falsas.
+
+! = operador lógico de negación. Devuelve el valor booleano opuesto de la expresión que niega.  Ej.: !true = false.
