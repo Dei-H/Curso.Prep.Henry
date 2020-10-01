@@ -1,0 +1,13 @@
+Variable = forma que guarda el valor de algo para poder usarlo después.
+
+Strings = cadenas de caracteres. Se crean e identifican facilmente porque llevan comillas.
+
+Funciones = Bloques de código que ejecutan una tarea en base a argumentos y devuelven una 
+respuesta o retornan un resultado.
+	Argumentos = el nombre que toma una variable que se pasa a una función.
+	return = comando que se pasa dentro del código de la función para generar que esta devuelva un resultado.
+
+Declaraciones if = son controles de flujo, nos permiten ejecutar códigos y/o obtener resultados siempre y cuando
+se cumplan condiciones específicas.
+
+Booleanos = uno de los tipos de datos de Javascript.  Tiene solamente dos valores posibles: true o false.

@@ -62,8 +62,8 @@ function sonIguales(x, y) {
   // Tu código:
   if (x === y) {
     return true;
-  } else {
-    return false;
+    } else {
+      return false;
   }
 }
 
@@ -170,8 +170,7 @@ function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
-  var combinado = nombre + ' ' + apellido;
-  return combinado;
+  return nombre + ' ' + apellido;
 }
 
 function obtenerSaludo(nombre) {
