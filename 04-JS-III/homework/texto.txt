@@ -1,0 +1,2 @@
+
+Array = El arreglo son elementos (variables, booleanos, funciones, otros arreglos, etc.) ordenados en forma de lista.
