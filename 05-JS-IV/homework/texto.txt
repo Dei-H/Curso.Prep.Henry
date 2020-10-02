@@ -1,0 +1,11 @@
+Objetos = Colección de propiedades
+
+Propiedades = asociación entre un nombre (key) y un valor (value)
+
+Métodos = es el nombre que recibe una función cuando está como propiedad de un objeto.
+
+Bucle for... in = es la herramienta de JS para poder iterar entre propiedades de un objeto.  Funciona similar que el bucle for de los arrays (dicho bucle no funciona en objetos) pero entre paréntesis declaramos una variable + la clave in + nombre de objeto.
+
+Notación de puntos vs. notación de corchetes = Ambas son formas de acceder a las propiedades de los objetos.  Difieren en la forma de escribirlas: 
+	La notación de puntos se escribe así: objeto.propiedad
+	La notación de corchetes se escribe así: objeto[propiedad]
